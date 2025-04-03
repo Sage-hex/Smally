@@ -18,7 +18,7 @@ Smally is a simple and efficient URL shortener that converts long URLs into shor
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/smally.git
+   git clone https://github.com/sage-hex/smally.git
    ```
 2. Navigate to the project folder:
    ```sh
