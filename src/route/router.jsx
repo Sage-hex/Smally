@@ -4,8 +4,7 @@ import Layout from "../layout/Layout";
 import NotFound from "../pages/NotFound";
 
 
-
-export default router = createBrowserRouter([
+const router = createBrowserRouter([
     {
         path:'/',
         element: <Layout/>,
@@ -22,3 +21,5 @@ export default router = createBrowserRouter([
     }
 
 ])
+
+export default router
